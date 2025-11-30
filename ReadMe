@@ -1,0 +1,32 @@
+# Privacy Policy for DailyWin
+
+**Last updated: April 05, 2025**
+
+DailyWin is a simple, offline-first habit tracker designed to help you win every day.
+
+### We respect your privacy
+DailyWin **does not collect, store, transmit, or share any personal data**.
+
+### Data Storage
+- All habits and completion data are stored **locally on your device only** using Android's secure Room database.
+- No data is ever sent to any server.
+- No analytics, tracking, or advertising IDs are used.
+- No account or login is required.
+
+### Permissions
+The app requests **no permissions** and has **no internet access**.
+
+### Third-Party Services
+- **Motivational quotes** are fetched from the public, free API at https://quotable.io (no user data is sent).
+- The app contains **no ads**, **no tracking**, and **no third-party SDKs** that collect data.
+
+### Children's Privacy
+DailyWin does not knowingly collect any personal information from children under 13.
+
+### Changes to This Privacy Policy
+We may update this policy from time to time. Changes will be posted on this GitHub repository.
+
+### Contact
+If you have any questions, feel free to open an issue on this repository or contact the developer at your email (optional).
+
+**Thank you for using DailyWin — go crush your habits!**
